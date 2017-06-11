@@ -31,4 +31,7 @@ class FrontController extends Controller
     public function mostrarUsuario(){
         return view('usuario.usuarios');
    }
+    public function openSystem(){
+        return view('admin.openSystem');
+   }
 }

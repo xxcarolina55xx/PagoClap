@@ -39,7 +39,7 @@
                     </a>
                     <ul class="dropdown-menu dropdown-user">
                         
-                        <li><a href="login"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        <li><a href="login"><i class="fa fa-sign-out fa-fw"></i>Salir</a>
                         </li>
                     </ul>
                 </li>
@@ -48,6 +48,9 @@
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
+                        <li>
+                        <a href="abrir"><i class="fa fa-folder-open-o"></i>Abrir Sistema<span class=""></span></a>
+                        </li>
                         <li>
                             <a href="#"><i class="fa fa-users fa-fw"></i>Familias<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">

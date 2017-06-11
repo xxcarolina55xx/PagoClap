@@ -17,3 +17,4 @@ Route::resource('usuario','UsuarioController');
 Route::get('form','FrontController@form');
 Route::get('login','FrontController@login');
 Route::get('mostrar','FrontController@mostrarUsuario');
+Route::get('abrir','FrontController@openSystem');
